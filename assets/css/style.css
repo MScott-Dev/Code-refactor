@@ -1,3 +1,5 @@
+/* Universal */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -24,6 +26,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,10 +50,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +60,10 @@ p {
 }
 
 /* Main content */
+
+p {
+    font-size: 16px;
+}
 
 .content {
     width: 75%;
