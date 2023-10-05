@@ -1,4 +1,4 @@
-# Code-refactor
+# Code refactor
 This bootcamp project's purpose was to refactor a webpage so that the links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines.
 
 
@@ -13,7 +13,7 @@ Given the code to a website, I was tasked with different ways to refactor the we
 
 ## Usage
 No functionally purpose, just for testing   
-![Imagine of the website](/assets/images/Website.png)
+![Imagine of the website](./assets/images/Website.PNG)
 
 ## Dependencies 
 Any web browser  
@@ -23,7 +23,7 @@ Any web browser
 N/A
 
 ## Executing program
-Paste the URL into any web browser
+Click the link or paste the URL into any web browser
 
 ## Authors
 * Refactored by Matthew Scott
