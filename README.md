@@ -12,10 +12,12 @@ Given the code to a website, I was tasked with different ways to refactor the we
    
 
 ## Usage
-No functionally purpose, just for testing
+No functionally purpose, just for testing   
+![Imagine of the website](/assets/images/Website.png)
 
 ## Dependencies 
-Any web browser
+Any web browser  
+<a href="https://mscott-dev.github.io/Code-refactor/" alt="Link to website">Link to URL</a>
 
 ## Installing
 N/A
