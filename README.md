@@ -13,7 +13,7 @@ Given the code to a website, I was tasked with different ways to refactor the we
 
 ## Usage
 No functionally purpose, just for testing   
-![Imagine of the website](./assets/images/Website.PNG)
+![Image of the website](./assets/images/Website.PNG)
 
 ## Dependencies 
 Any web browser  
